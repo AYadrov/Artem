@@ -1,8 +1,8 @@
 # Artem
-<p>Данный проект вычисляет квадрат числа.</p>
+<p>The purpose fo this project is calculating square of the number.</p>
 <br>
-<h3>Функции</h3>
+<h3>Functions</h3>
 <ul>
-<li>Вычисление квадрата числа</li>
+<li>Calculating the square</li>
 </ul>
 <p>© 2018 SFU</p>
